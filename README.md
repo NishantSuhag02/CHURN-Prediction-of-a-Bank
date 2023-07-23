@@ -25,4 +25,4 @@ Analyzed the model's churn predictions and identified key factors influencing cu
 # Actionable Insights and Recommendations:
 Presented the findings to cross-functional teams, providing data-driven recommendations to optimize customer retention strategies.
 
-# This project demonstrated my expertise in data preprocessing, ANN modeling, and data analysis, as well as my ability to translate complex models into actionable business insights. The successful implementation of the churn rate prediction model significantly contributed to enhancing customer retention and informed data-driven decision-making within the organization.
+This project demonstrated my expertise in data preprocessing, ANN modeling, and data analysis, as well as my ability to translate complex models into actionable business insights. The successful implementation of the churn rate prediction model significantly contributed to enhancing customer retention and informed data-driven decision-making within the organization.
