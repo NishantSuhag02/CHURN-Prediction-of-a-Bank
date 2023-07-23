@@ -1,6 +1,6 @@
-# CHURN-Prediction-of-a-Bank
+# CHURN Prediction of a Bank
 
-Leveraging the power of TensorFlow/Keras in Python, I meticulously constructed and fine-tuned a sophisticated ANN model to effectively predict customer churn. Through iterative model development and optimization, I achieved remarkable accuracy in forecasting churn events, enabling the business to proactively address potential customer attrition.
+Leveraging the power of Keras in Python, I meticulously constructed and fine-tuned a sophisticated ANN model to effectively predict customer churn. Through iterative model development and optimization, I achieved remarkable accuracy in forecasting churn events, enabling the business to proactively address potential customer attrition.
 
 # Data Collection:
 Gathered comprehensive customer data, including transaction history, engagement metrics, and demographic information.
